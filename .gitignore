@@ -3,3 +3,4 @@
 **/*.img
 **/*.list
 **/*.map
+.DS_Store
